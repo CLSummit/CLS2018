@@ -8,7 +8,7 @@ Healthy meetup checklist from Women Who Code Austin organizer:
 - Code of Conduct
 - Who is speaking
 - Meetup photos
-- # RSVPs
+- `#` RSVPs
 - Copy quality
 
 Big meetup -> meet more often at different times, more organizers to load balance responsibilities
@@ -24,4 +24,5 @@ Joe Dunn
 Jake McKee
 Mike Jeng
 
-CMX does not offer a lot of support to local organizers
+CMX does not offer a lot of support to local organizers. Charging a lot of money for their events -- they should make money without charging the community.
+
