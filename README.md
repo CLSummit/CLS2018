@@ -7,8 +7,8 @@ A collection of notes, slides, and other resources ("content") from the Communit
 ```
 Repo
 - Session folder
-  - Content 1
-  - Content 2
+  - Content file 1
+  - Content file 2
 ```
 
 ## How to contribute
