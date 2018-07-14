@@ -23,4 +23,4 @@ You can call your file whatever your want. I am using my last name for my files 
 
 ## Contributor License Agreement
 
-- All accepted submissions to this repo will be licensed under a [CC0 License](https://creativecommons.org/publicdomain/zero/1.0/).
+- All accepted submissions to this repo will be licensed under [The Unlicense](https://github.com/CLSummit/CLS2018/blob/master/LICENSE).
