@@ -27,7 +27,7 @@ You can call your file whatever your want. I am using my last name for my files 
 
 ## Schedule
 
-### Day 1 (D1)
+### Day 1
 
 |  | Group 1	| Group 2 | Group 3 | Group 4	| Group 5 | Group 6 | Group 7 | Group 8 |  
 |:------------- |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
@@ -37,7 +37,7 @@ You can call your file whatever your want. I am using my last name for my files 
 | Session 4 |	Transforming Support Communities (Jeremy Meiss, Auth0) | [Where Do Community Managers Retire? (Stefano Maffulli, Scality)](https://github.com/CLSummit/CLS2018/tree/master/D1_S4_G2)	| "The Noisy Minority" Managing/ Balancing (Cat Allman) |  |	Tactics & Talking Points to Champion Open Source Engagement in a Corp Environment (Jade) | What You Measure Is What You Get: Vanity metric horror stories, measuring of personal experiences, measuring impact ([...]) | What are best practices for onboarding and developing newcomers? (Sherwood [...]) | Growing your side project community (Nick Burch) |  
 
 
-### Day 2 (D2)
+### Day 2
 
 |  | Group 1	| Group 2 | Group 3 | Group 4	| Group 5 | Group 6 | Group 7 | Group 8 |  
 |:------------- |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|  
