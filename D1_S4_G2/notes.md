@@ -16,6 +16,7 @@ What’s a career path for a community manager? It will be an interactive sessio
 * Nathalie Chan King Choy, NFTy Magicians community
 * FIXME: missing a few attendees: Google, RedHat, etc.
 
+## Notes
 * Stefano's career path
     * Started as community manager many years ago, before it was a thing
     * Set up LUG in Milan. Hackers advocating for hackers.
