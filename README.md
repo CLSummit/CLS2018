@@ -41,7 +41,7 @@ You can call your file whatever your want. I am using my last name for my files 
 | Session 8 |	 | 	|  |  |		|  |  |  |  
 
 
-### Day 1 (D2)
+### Day 2 (D2)
 
 |	| Group 1	| Group 2 | Group 3 | Group 4	| Group 5 | Group 6 | Group 7 | Group 8 |  
 | ------------- |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|  
