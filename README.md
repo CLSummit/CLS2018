@@ -24,3 +24,32 @@ You can call your file whatever your want. I am using my last name for my files 
 ## Contributor License Agreement
 
 - All accepted submissions to this repo will be licensed under [The Unlicense](https://github.com/CLSummit/CLS2018/blob/master/LICENSE.md).
+
+## Schedule
+
+### Day 1 (D1)
+
+|	| Group 1	| Group 2 | Group 3 | Group 4	| Group 5 | Group 6 | Group 7 | Group 8 |  
+| ------------- |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|  
+| Session 1 |	Handling Big Changes (Deb Nicholson, Software Freedom Conservancy) | Marketing Open Source (Deirdre Straughan, Amazon Web Services	|  | How to Build Buy-in and Trust (w/ everyone!) (Jono Bacon @jonobacon) |	Shaping Inclusive Meritocracy: What do you measure? What do you do? (Sean Goggins @sociallycompute)	| How Do We Make OSI Compliance Easier? (@nithyaruff) | | Scaling In-person Meetups: Building better chapter-driven community |  
+| Session 2 |	 | 	|  |  |		|  |  |  |  
+| Session 3 |	 | 	|  |  |		|  |  |  |  
+| Session 4 |	 | 	|  |  |		|  |  |  |  
+| Session 5 |	 | 	|  |  |		|  |  |  |  
+| Session 6 |	 | 	|  |  |		|  |  |  |  
+| Session 7 |	 | 	|  |  |		|  |  |  |  
+| Session 8 |	 | 	|  |  |		|  |  |  |  
+
+
+### Day 1 (D2)
+
+|	| Group 1	| Group 2 | Group 3 | Group 4	| Group 5 | Group 6 | Group 7 | Group 8 |  
+| ------------- |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|  
+| Session 1 |	 | 	|  |  |		|  |  |  |  
+| Session 2 |	 | 	|  |  |		|  |  |  |  
+| Session 3 |	 | 	|  |  |		|  |  |  |  
+| Session 4 |	 | 	|  |  |		|  |  |  |  
+| Session 5 |	 | 	|  |  |		|  |  |  |  
+| Session 6 |	 | 	|  |  |		|  |  |  |  
+| Session 7 |	 | 	|  |  |		|  |  |  |  
+| Session 8 |	 | 	|  |  |		|  |  |  |  
