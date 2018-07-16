@@ -41,7 +41,7 @@ You can call your file whatever your want. I am using my last name for my files 
 
 |  | Group 1	| Group 2 | Group 3 | Group 4	| Group 5 | Group 6 | Group 7 | Group 8 |  
 |:------------- |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|  
-| Session 1 |[The Maintenance Mode Concept](https://pad.sfconservancy.org/p/MaintenanceMode_CLSummit_Day1_1) (Matt Broberg Sensu)	 | 	|  |  |		|  |  |  |  
-| Session 2 |	 | 	|  |  |		|  |  |  |  
+| Session 1 | [The Maintenance Mode Concept](https://pad.sfconservancy.org/p/MaintenanceMode_CLSummit_Day1_1) (Matt Broberg Sensu)	 |	|  |  |		|  |  |  |  
+| Session 2 |	 |[The Nth Pull Request - Encouraging Intermediate Contributors](https://pad.sfconservancy.org/p/CLSummit_IntermediateContributors) (Sage Sharp - Otter Tech)	|  |  |		|  |  |  |  
 | Session 3 |	 | 	|  |  |		|  |  |  |  
 | Session 4 |	 | 	|  |  |		|  |  |  |  
