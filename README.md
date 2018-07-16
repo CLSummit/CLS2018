@@ -2,7 +2,7 @@
 
 A collection of notes, slides, and other resources ("content") from the Community Leadership Submmit 2018 conference.
 
-## Navivation
+## Navigation
 
 ```
 Repo
