@@ -21,3 +21,44 @@ Takeaway: How to ask for people's time / money
 
 ** w/r/t asking for time  
 ** newbies are an investment of time, may not be worth it for your project  
+
+Money is easier than headcount
+* Need internal advocate, who works on core tech of target company
+* Need well-defined requirements, statement of work (what, timeframe, project management)
+** Need to believe in statement of work, dependencies
+** Extra challenge of X national boundaries
+
+Resource: opensource.google.com
+Donor Centered Fundraising (Book)
+
+Past successful proposals:
+
+Moss Foundation
+Core Infrastructure Initiative
+
+OSS foundations publish their lists, "4999 form?"
+
+"If nobody's asking for it, that's a tough sell"
+
+Stormy Daniels: "It's better to ask big", hear "no", then ask for something simpler
+
+Know where to ask in bigger companies, 
+
+e.g. Google has different groups for diversity, staffing, education, etc. 
+
+Have a "one pager" ready
+* Ready to pass along to decision maker
+* beginning of a conversation
+* Who, what, when, where
+* Timeframe (last min is no go)
+
+Good time to ask, before end of a fiscal cycle
+
+PayPal not good enough, as higher value contributions require banking info that donor's can't handle
+
+Small scale: 
+
+* Ask everyone. Even pizza parlors may offer food/space for the opportunity
+* Pass the hat
+* Ask people to bring bits, picnic style
+* Get idea of sponsorship abilities, based on working level, (may vary, manager, etc.)
