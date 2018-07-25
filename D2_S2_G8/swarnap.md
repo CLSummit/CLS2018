@@ -46,5 +46,3 @@ http://www.guidetoallyship.com/
 http://www.scn.org/friends/ally.html
 https://www.amazon.com/Becoming-Ally-Breaking-Cycle-Oppression/dp/1842772252
 https://smile.amazon.com/gp/product/1614380066/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1
-
-
